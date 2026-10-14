@@ -1,5 +1,6 @@
-Mon Oct 12 01:30:36 PM PDT 2026 : start main with timestamp: Mon Oct 12 01:30:36 PM PDT 2026
-Mon Oct 12 01:30:39 PM PDT 2026 : start get_my_ips
-Mon Oct 12 01:30:39 PM PDT 2026 : IP found:
-Mon Oct 12 01:30:39 PM PDT 2026 : - wlan0 : 10.133.0.219 [SSH](ssh://ferree@10.133.0.219) [SFTP](sftp://ferree@10.133.0.219) - Signal strength: 94%
-Mon Oct 12 01:30:39 PM PDT 2026 : committing to git repo
+Mon Oct 12 01:50:16 PM PDT 2026 : waiting for time sync 5s
+Wed Oct 14 12:22:43 PM PDT 2026 : start main with timestamp: Wed Oct 14 12:22:43 PM PDT 2026
+Wed Oct 14 12:22:47 PM PDT 2026 : start get_my_ips
+Wed Oct 14 12:22:47 PM PDT 2026 : IP found:
+Wed Oct 14 12:22:47 PM PDT 2026 : - wlan0 : 10.133.0.219 [SSH](ssh://ferree@10.133.0.219) [SFTP](sftp://ferree@10.133.0.219) - Signal strength: 94%
+Wed Oct 14 12:22:47 PM PDT 2026 : committing to git repo
